@@ -1,0 +1,186 @@
+frame
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t -10.0 -5.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 0.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 0.0
+
+frame0
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t -8.0 -3.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 0.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 0.0
+
+frame1
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t -6.0 -1.0 -12.0
+frontleg
+fronttopleg
+rz 30.0
+frontlowerleg
+ry 30.0
+backleg
+backtopleg
+rz 30.0
+backlowerleg
+ry 30.0
+
+frame2
+global
+rx 0.0
+ry 0.0
+rz 20.0
+t -4.0 1.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 60.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 60.0
+
+frame3
+global
+rx 0.0
+ry 0.0
+rz 30.0
+t -2.0 3.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 120.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 120.0
+
+frame4
+global
+rx 0.0
+ry 0.0
+rz 30.0
+t 0.0 5.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 120.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 180.0
+
+frame5
+global
+rx 0.0
+ry 0.0
+rz 30.0
+t 2.0 3.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 120.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 120.0
+
+frame6
+global
+rx 0.0
+ry 0.0
+rz 20.0
+t 4.0 1.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 60.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 60.0
+
+frame7
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t 6.0 -1.0 -12.0
+frontleg
+fronttopleg
+rz 30.0
+frontlowerleg
+ry 30.0
+backleg
+backtopleg
+rz 30.0
+backlowerleg
+ry 30.0
+
+frame8
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t 8.0 -3.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 0.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 0.0
+
+frame9
+global
+rx 0.0
+ry 0.0
+rz 10.0
+t 10.0 -5.0 -12.0
+frontleg
+fronttopleg
+rz 0.0
+frontlowerleg
+ry 0.0
+backleg
+backtopleg
+rz 0.0
+backlowerleg
+ry 0.0
